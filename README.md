@@ -4,8 +4,6 @@
 
 A gorgeous, highly configurable Home Assistant Lovelace custom card designed to track family presence, custom location states (with speed detection), phone/watch battery stats with charging states, and a visual history timeline bar. Fully integrated with a visual card editor and native `more-info` popups.
 
-[![Open your Home Assistant instance and open a repository inside the HACS store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=YOUR_GITHUB_USERNAME&repository=family-tracker-card&category=plugin)
-
 ## Features
 - **Visual Card Editor:** Easily manage cards, people, devices, and custom zone rules directly via the Home Assistant UI.
 - **Location Status & History Timeline:** Real-time location badges with dynamic gradient backgrounds and a tracking history timeline bar.
