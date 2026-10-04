@@ -12,6 +12,11 @@ A gorgeous, highly configurable Home Assistant Lovelace custom card designed to 
 - **Driving Speed Recognition:** Automatically surfaces speed in mph when traveling.
 - **Battery & Charging Indicators:** Monitors phone and watch batteries with low-battery pulsing and charging animations.
 - **Native Interactivity:** Click location badges or battery indicators to bring up Home Assistant's native `more-info` dialogs.
+- 
+![Family Tracker Card Preview](1.png)
+![Family Tracker Card Preview](2.png)
+![Family Tracker Card Preview](3.png)
+![Family Tracker Card Preview](4.png)
 
 ## Installation (HACS)
 1. Click the **"Open in HACS"** button above (or manually open HACS > Custom Repositories > Add your repo URL as category **Plugin**).
