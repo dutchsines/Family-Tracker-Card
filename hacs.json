@@ -1,5 +1,6 @@
 {
   "name": "Family Tracker Card",
   "filename": "family-tracker-card.js",
-  "render_readme": true
+  "render_readme": true,
+  "type": "plugin"
 }
