@@ -1,6 +1,6 @@
 # Family Tracker Card
 
-[![HACS Custom](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=dutchsines&repository=family-tracker-card&category=plugin)
+[![Open your Home Assistant instance and open a repository inside the HACS store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=dutchsines&repository=family-tracker-card&category=plugin)
 
 A gorgeous, highly configurable Home Assistant Lovelace custom card designed to track family presence, custom location states (with speed detection), phone/watch battery stats with charging states, and a visual history timeline bar. Fully integrated with a visual card editor and native `more-info` popups.
 
